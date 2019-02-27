@@ -1,3 +1,5 @@
+## Move to [ipfs/bblom](https://github.com/ipfs/bbloom/)
+
 ## bbloom: a bitset Bloom filter for go/golang
 ===
 
