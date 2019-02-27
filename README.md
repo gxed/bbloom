@@ -1,6 +1,6 @@
-## Move to [ipfs/bblom](https://github.com/ipfs/bbloom/)
+## (Archived) Moved to [ipfs/bblom](https://github.com/ipfs/bbloom/)
 
-## bbloom: a bitset Bloom filter for go/golang
+### bbloom: a bitset Bloom filter for go/golang
 ===
 
 package implements a fast bloom filter with real 'bitset' and JSONMarshal/JSONUnmarshal to store/reload the Bloom filter. 
